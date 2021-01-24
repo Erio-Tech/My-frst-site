@@ -1,0 +1,168 @@
+#intro {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), #e9b0df), url(../images/web.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
+
+
+.intro1 h1 {
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-style: oblique;
+  margin-left: 100px;
+}
+
+.intro1 p {
+  font-family: "Open Sans";
+  color: #ffffff;
+  font-style: oblique;
+  margin-left: 100px;
+}
+
+.intro1 img{
+  width: 150px;
+  margin-left: 95px;
+
+}
+
+#intro1{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #e9b0df);
+    background-size: cover;
+    background-position: center;
+    height: 100vh:
+
+}
+
+.intro2 h3{
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-style: oblique;
+  margin-left: 100px;
+}
+
+.intro2 .one{
+    background: #fff;
+  	height: 1px;
+    border: 3px solid;
+    border-radius: 5px;
+  	border-style: inset;
+  	margin-left: 75px;
+  	width: 10%;
+    margin-top: -20px;
+}
+
+
+
+.intro2 .three{
+  background: #fff;
+  height: 1px;
+  border: 3px solid;
+  border-radius: 5px;
+  border-style: inset;
+  margin-left: 75px;
+  width: 10%;
+  margin-top: -20px;
+}
+
+
+.intro2 .five{
+  font-family: "Open Sans";
+  font-size: 19px;
+  color: #fff;
+  font-style: oblique;
+  text-align: inherit;
+}
+.intro2 ul li{
+  font-family: "Open Sans";
+  font-size: 19px;
+  color: #fff;
+  font-style: oblique;
+  text-align: inherit;
+  margin-left: 55px;
+}
+.intro2 img{
+  margin-left: 797px;
+  margin-top: -500px;
+  width: 250px;
+}
+
+
+.intro2 .six{
+  font-family: "Open Sans";
+  font-size: 29px;
+  color: #fff;
+  font-style: oblique;
+  margin-left: 797px
+}
+.computer img{
+  margin-left: 150px;
+  width: 350px;
+}
+
+.programmer img{
+  margin-left: 750px;
+  margin-bottom: -500px;
+  width: 400px;
+}
+
+.work img{
+  width: 200px;
+  margin-left: 980px;
+  margin-bottom: -300px;
+  border-style: inset;
+  display:inline-block;
+  border: 3px solid;
+  border-radius: 9px;
+  border-color: #fff;
+
+
+
+}
+.intro3 a{
+            text-decoration: none;
+            text-align: center;
+            border-style: inset;
+            display: inline-block;
+            border-radius: 150px;
+            color: #f4f4f2;
+            width: 150px;
+            background-color: #ec5858;
+            margin: 150px;
+            margin-left: 240px;
+            margin-top: 0px;
+            font-size: 25px;
+
+}
+.intro3 h3{
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-style: oblique;
+  margin-left: 100px;
+
+}
+
+.intro3 th{
+  color: #fff;
+  padding-left: 40px;
+  font-size: 20px;
+
+}
+.intro3 td{
+  color:#fff;
+  padding: 10px;
+  padding-left: 50px;
+  font-size: 18px;
+  margin: 56px;
+
+}
+.intro3 hr{
+  background: #fff;
+  height: 1px;
+  border: 3px solid;
+  border-radius: 5px;
+  border-style: inset;
+  width:20%;
+  margin-left: 30px;
+  margin-top: -16px
+}
